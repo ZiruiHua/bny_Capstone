@@ -160,7 +160,13 @@ def manualProcessNode(request):
         if not system or len(system) == 0:
             newSystem = System(name=nodeName)
             newSystem.save()
-            return HttpResponse(status=200)
+            system2 = System.objects.filter(name=nodeName)
+            if system2[0]:
+                obj = {}
+                obj['color'] = system2[0].color
+                return JsonResponse(obj, status=200)
+            else:
+                return JsonResponse({'error':'failed to insert'}, status=200)
         else:
             # try to add an existed node, return 404
             return HttpResponse(status=403)

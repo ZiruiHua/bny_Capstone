@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf40d457-c892-4dd7-a418-203b1007bd44" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bny_Capstone/settings.py" afterPath="$PROJECT_DIR$/bny_Capstone/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend_api/views.py" afterPath="$PROJECT_DIR$/backend_api/views.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,42 +13,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/backend_api/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="72" column="28" lean-forward="false" selection-start-line="72" selection-start-column="28" selection-end-line="72" selection-end-column="28" />
+            <state relative-caret-position="676">
+              <caret line="167" column="17" lean-forward="true" selection-start-line="167" selection-start-column="17" selection-end-line="167" selection-end-column="17" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
-                <marker date="1525624838905" expanded="true" signature="320:357" ph="..." />
-                <marker date="1525624838905" expanded="true" signature="388:723" ph="..." />
-                <marker date="1525624838905" expanded="true" signature="563:663" ph="..." />
-                <marker date="1525624838905" expanded="true" signature="749:1396" ph="..." />
-                <marker date="1525624838905" expanded="true" signature="1051:1370" ph="..." />
-                <marker date="1525624838905" expanded="true" signature="1424:3076" ph="..." />
-                <marker date="1525624838905" expanded="true" signature="1544:2994" ph="..." />
-                <marker date="1525624838905" expanded="true" signature="1706:2994" ph="..." />
-                <marker date="1525624838905" expanded="true" signature="1719:1808" ph="..." />
-                <marker date="1525624838905" expanded="true" signature="2019:2994" ph="..." />
-                <marker date="1525624838905" expanded="true" signature="2414:2994" ph="..." />
-                <marker date="1525624838905" expanded="true" signature="2458:2994" ph="..." />
-                <marker date="1525624838905" expanded="true" signature="3078:4728" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-                <marker date="1525624838905" expanded="true" signature="4754:5588" ph="..." />
-                <marker date="1525624838905" expanded="true" signature="4958:5197" ph="..." />
-                <marker date="1525624838905" expanded="true" signature="5245:5543" ph="..." />
-                <marker date="1525624838905" expanded="true" signature="5621:6867" ph="..." />
-                <marker date="1525624838905" expanded="true" signature="5910:6360" ph="..." />
-                <marker date="1525624838905" expanded="true" signature="5974:6087" ph="..." />
-                <marker date="1525624838905" expanded="true" signature="6130:6249" ph="..." />
-                <marker date="1525624838905" expanded="true" signature="6263:6360" ph="..." />
-                <marker date="1525624838905" expanded="true" signature="6408:6788" ph="..." />
-                <marker date="1525624838905" expanded="true" signature="6548:6671" ph="..." />
-                <marker date="1525624838905" expanded="true" signature="6685:6788" ph="..." />
-                <marker date="1525624838905" expanded="true" signature="6901:8105" ph="..." />
-                <marker date="1525624838905" expanded="true" signature="7365:7452" ph="..." />
-                <marker date="1525624838905" expanded="true" signature="7604:7903" ph="..." />
-                <marker date="1525624838905" expanded="true" signature="7654:7763" ph="..." />
-                <marker date="1525624838905" expanded="true" signature="7950:8105" ph="..." />
               </folding>
             </state>
           </provider>
@@ -98,11 +69,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bny_Capstone/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="443">
-              <caret line="117" column="0" lean-forward="true" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
+              <caret line="120" column="0" lean-forward="true" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
               <folding>
                 <element signature="e#311#320#0" expanded="true" />
               </folding>
@@ -141,9 +112,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/backend_api/models.py" />
-        <option value="$PROJECT_DIR$/backend_api/views.py" />
         <option value="$PROJECT_DIR$/bny_Capstone/wsgi.py" />
         <option value="$PROJECT_DIR$/bny_Capstone/settings.py" />
+        <option value="$PROJECT_DIR$/backend_api/views.py" />
       </list>
     </option>
   </component>
@@ -289,59 +260,12 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/backend_api/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="74" lean-forward="false" selection-start-line="11" selection-start-column="74" selection-end-line="11" selection-end-column="74" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/backend_api/DBdriver.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="35" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend_api/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="72" column="28" lean-forward="false" selection-start-line="72" selection-start-column="28" selection-end-line="72" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-            <marker date="1525624838905" expanded="true" signature="320:357" ph="..." />
-            <marker date="1525624838905" expanded="true" signature="388:723" ph="..." />
-            <marker date="1525624838905" expanded="true" signature="563:663" ph="..." />
-            <marker date="1525624838905" expanded="true" signature="749:1396" ph="..." />
-            <marker date="1525624838905" expanded="true" signature="1051:1370" ph="..." />
-            <marker date="1525624838905" expanded="true" signature="1424:3076" ph="..." />
-            <marker date="1525624838905" expanded="true" signature="1544:2994" ph="..." />
-            <marker date="1525624838905" expanded="true" signature="1706:2994" ph="..." />
-            <marker date="1525624838905" expanded="true" signature="1719:1808" ph="..." />
-            <marker date="1525624838905" expanded="true" signature="2019:2994" ph="..." />
-            <marker date="1525624838905" expanded="true" signature="2414:2994" ph="..." />
-            <marker date="1525624838905" expanded="true" signature="2458:2994" ph="..." />
-            <marker date="1525624838905" expanded="true" signature="3078:4728" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1525624838905" expanded="true" signature="4754:5588" ph="..." />
-            <marker date="1525624838905" expanded="true" signature="4958:5197" ph="..." />
-            <marker date="1525624838905" expanded="true" signature="5245:5543" ph="..." />
-            <marker date="1525624838905" expanded="true" signature="5621:6867" ph="..." />
-            <marker date="1525624838905" expanded="true" signature="5910:6360" ph="..." />
-            <marker date="1525624838905" expanded="true" signature="5974:6087" ph="..." />
-            <marker date="1525624838905" expanded="true" signature="6130:6249" ph="..." />
-            <marker date="1525624838905" expanded="true" signature="6263:6360" ph="..." />
-            <marker date="1525624838905" expanded="true" signature="6408:6788" ph="..." />
-            <marker date="1525624838905" expanded="true" signature="6548:6671" ph="..." />
-            <marker date="1525624838905" expanded="true" signature="6685:6788" ph="..." />
-            <marker date="1525624838905" expanded="true" signature="6901:8105" ph="..." />
-            <marker date="1525624838905" expanded="true" signature="7365:7452" ph="..." />
-            <marker date="1525624838905" expanded="true" signature="7604:7903" ph="..." />
-            <marker date="1525624838905" expanded="true" signature="7654:7763" ph="..." />
-            <marker date="1525624838905" expanded="true" signature="7950:8105" ph="..." />
           </folding>
         </state>
       </provider>
@@ -385,9 +309,27 @@
     <entry file="file://$PROJECT_DIR$/bny_Capstone/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="443">
-          <caret line="117" column="0" lean-forward="true" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
+          <caret line="120" column="0" lean-forward="true" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
           <folding>
             <element signature="e#311#320#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend_api/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="74" lean-forward="false" selection-start-line="11" selection-start-column="74" selection-end-line="11" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend_api/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="167" column="17" lean-forward="true" selection-start-line="167" selection-start-column="17" selection-end-line="167" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
