@@ -2,8 +2,12 @@ from backend_api.models import *
 import random
 
 def handleJson(jsonObj):
-    sourceName  = jsonObj['source']
-    destName = jsonObj['destination']
+    try:
+        sourceName  = jsonObj['source']
+        destName = jsonObj['destination']
+        fields = jsonObj['fields']
+    except:
+        raise ValueError('Field Missing')
 
     findSource = System.objects.filter(name = sourceName)
     if findSource:
@@ -29,8 +33,8 @@ def handleJson(jsonObj):
         relation = Relationship(fromSystem = source, toSystem = dest)
         relation.save()
     
-      
-    fields = jsonObj['fields']
+
+
     for field in fields:
         findField = Attribute.objects.filter(name = field)
         if findField:
