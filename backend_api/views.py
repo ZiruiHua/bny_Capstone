@@ -12,7 +12,7 @@ from collections import defaultdict
 
 # Create your views here.
 def handle(request):
-    return HttpResponse("")
+    return HttpResponse("Home Page")
 
 
 def BNYBackEndPost(request):
