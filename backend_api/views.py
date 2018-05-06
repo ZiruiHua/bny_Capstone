@@ -152,10 +152,9 @@ def getModels(request):
 
 def manualProcessNode(request):
     if request.method != 'POST' or not request.POST.get('nodeName') or not request.POST.get('action'):
-        return HttpResponse(status=403)
+        return HttpResponse(status=400)
     # user adds a new node to system
     nodeName = request.POST.get('nodeName')
-    print (nodeName)
     if request.POST.get('action') == 'add':
         system = System.objects.filter(name=nodeName)
 
@@ -170,7 +169,7 @@ def manualProcessNode(request):
                 obj['color'] = system2[0].color
                 return JsonResponse(obj, status=200)
             else:
-                return JsonResponse({'error':'failed to insert'}, status=200)
+                return JsonResponse({'error':'failed to insert'}, status=400)
         else:
             # try to add an existed node, return 404
             return HttpResponse(status=400)
