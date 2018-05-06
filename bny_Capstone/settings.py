@@ -27,7 +27,7 @@ SECRET_KEY = 'b1tx1er*p+v5mu=a0&n&n0own7lib8q)+p$cnk)+++t0wexwy9'
 DEBUG = True
 
 # ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'https://data-lineage.herokuapp.com', 'herokuapp.com']
-ALLOWED_HOSTS = ['localhost','127.0.0.1']
+ALLOWED_HOSTS = ['*']
 
 # Application definition
 

@@ -20,6 +20,35 @@
               <caret line="72" column="28" lean-forward="false" selection-start-line="72" selection-start-column="28" selection-end-line="72" selection-end-column="28" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
+                <marker date="1525624838905" expanded="true" signature="320:357" ph="..." />
+                <marker date="1525624838905" expanded="true" signature="388:723" ph="..." />
+                <marker date="1525624838905" expanded="true" signature="563:663" ph="..." />
+                <marker date="1525624838905" expanded="true" signature="749:1396" ph="..." />
+                <marker date="1525624838905" expanded="true" signature="1051:1370" ph="..." />
+                <marker date="1525624838905" expanded="true" signature="1424:3076" ph="..." />
+                <marker date="1525624838905" expanded="true" signature="1544:2994" ph="..." />
+                <marker date="1525624838905" expanded="true" signature="1706:2994" ph="..." />
+                <marker date="1525624838905" expanded="true" signature="1719:1808" ph="..." />
+                <marker date="1525624838905" expanded="true" signature="2019:2994" ph="..." />
+                <marker date="1525624838905" expanded="true" signature="2414:2994" ph="..." />
+                <marker date="1525624838905" expanded="true" signature="2458:2994" ph="..." />
+                <marker date="1525624838905" expanded="true" signature="3078:4728" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+                <marker date="1525624838905" expanded="true" signature="4754:5588" ph="..." />
+                <marker date="1525624838905" expanded="true" signature="4958:5197" ph="..." />
+                <marker date="1525624838905" expanded="true" signature="5245:5543" ph="..." />
+                <marker date="1525624838905" expanded="true" signature="5621:6867" ph="..." />
+                <marker date="1525624838905" expanded="true" signature="5910:6360" ph="..." />
+                <marker date="1525624838905" expanded="true" signature="5974:6087" ph="..." />
+                <marker date="1525624838905" expanded="true" signature="6130:6249" ph="..." />
+                <marker date="1525624838905" expanded="true" signature="6263:6360" ph="..." />
+                <marker date="1525624838905" expanded="true" signature="6408:6788" ph="..." />
+                <marker date="1525624838905" expanded="true" signature="6548:6671" ph="..." />
+                <marker date="1525624838905" expanded="true" signature="6685:6788" ph="..." />
+                <marker date="1525624838905" expanded="true" signature="6901:8105" ph="..." />
+                <marker date="1525624838905" expanded="true" signature="7365:7452" ph="..." />
+                <marker date="1525624838905" expanded="true" signature="7604:7903" ph="..." />
+                <marker date="1525624838905" expanded="true" signature="7654:7763" ph="..." />
+                <marker date="1525624838905" expanded="true" signature="7950:8105" ph="..." />
               </folding>
             </state>
           </provider>
@@ -72,8 +101,8 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bny_Capstone/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1645">
-              <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+            <state relative-caret-position="443">
+              <caret line="117" column="0" lean-forward="true" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
               <folding>
                 <element signature="e#311#320#0" expanded="true" />
               </folding>
@@ -284,6 +313,35 @@
           <caret line="72" column="28" lean-forward="false" selection-start-line="72" selection-start-column="28" selection-end-line="72" selection-end-column="28" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
+            <marker date="1525624838905" expanded="true" signature="320:357" ph="..." />
+            <marker date="1525624838905" expanded="true" signature="388:723" ph="..." />
+            <marker date="1525624838905" expanded="true" signature="563:663" ph="..." />
+            <marker date="1525624838905" expanded="true" signature="749:1396" ph="..." />
+            <marker date="1525624838905" expanded="true" signature="1051:1370" ph="..." />
+            <marker date="1525624838905" expanded="true" signature="1424:3076" ph="..." />
+            <marker date="1525624838905" expanded="true" signature="1544:2994" ph="..." />
+            <marker date="1525624838905" expanded="true" signature="1706:2994" ph="..." />
+            <marker date="1525624838905" expanded="true" signature="1719:1808" ph="..." />
+            <marker date="1525624838905" expanded="true" signature="2019:2994" ph="..." />
+            <marker date="1525624838905" expanded="true" signature="2414:2994" ph="..." />
+            <marker date="1525624838905" expanded="true" signature="2458:2994" ph="..." />
+            <marker date="1525624838905" expanded="true" signature="3078:4728" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1525624838905" expanded="true" signature="4754:5588" ph="..." />
+            <marker date="1525624838905" expanded="true" signature="4958:5197" ph="..." />
+            <marker date="1525624838905" expanded="true" signature="5245:5543" ph="..." />
+            <marker date="1525624838905" expanded="true" signature="5621:6867" ph="..." />
+            <marker date="1525624838905" expanded="true" signature="5910:6360" ph="..." />
+            <marker date="1525624838905" expanded="true" signature="5974:6087" ph="..." />
+            <marker date="1525624838905" expanded="true" signature="6130:6249" ph="..." />
+            <marker date="1525624838905" expanded="true" signature="6263:6360" ph="..." />
+            <marker date="1525624838905" expanded="true" signature="6408:6788" ph="..." />
+            <marker date="1525624838905" expanded="true" signature="6548:6671" ph="..." />
+            <marker date="1525624838905" expanded="true" signature="6685:6788" ph="..." />
+            <marker date="1525624838905" expanded="true" signature="6901:8105" ph="..." />
+            <marker date="1525624838905" expanded="true" signature="7365:7452" ph="..." />
+            <marker date="1525624838905" expanded="true" signature="7604:7903" ph="..." />
+            <marker date="1525624838905" expanded="true" signature="7654:7763" ph="..." />
+            <marker date="1525624838905" expanded="true" signature="7950:8105" ph="..." />
           </folding>
         </state>
       </provider>
@@ -326,8 +384,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bny_Capstone/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1645">
-          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        <state relative-caret-position="443">
+          <caret line="117" column="0" lean-forward="true" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
           <folding>
             <element signature="e#311#320#0" expanded="true" />
           </folding>
