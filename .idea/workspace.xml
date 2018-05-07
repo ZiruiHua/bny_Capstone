@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf40d457-c892-4dd7-a418-203b1007bd44" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend_api/DBdriver.py" afterPath="$PROJECT_DIR$/backend_api/DBdriver.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend_api/views.py" afterPath="$PROJECT_DIR$/backend_api/views.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,8 +18,8 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/backend_api/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3472">
-              <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+            <state relative-caret-position="347">
+              <caret line="145" column="8" lean-forward="false" selection-start-line="145" selection-start-column="8" selection-end-line="145" selection-end-column="8" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
                 <element signature="e#1091#1733#0" expanded="false" />
@@ -77,8 +77,8 @@
         <option value="$PROJECT_DIR$/backend_api/models.py" />
         <option value="$PROJECT_DIR$/bny_Capstone/wsgi.py" />
         <option value="$PROJECT_DIR$/bny_Capstone/settings.py" />
-        <option value="$PROJECT_DIR$/backend_api/views.py" />
         <option value="$PROJECT_DIR$/backend_api/DBdriver.py" />
+        <option value="$PROJECT_DIR$/backend_api/views.py" />
       </list>
     </option>
   </component>
@@ -289,8 +289,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/backend_api/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3472">
-          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        <state relative-caret-position="347">
+          <caret line="145" column="8" lean-forward="false" selection-start-line="145" selection-start-column="8" selection-end-line="145" selection-end-column="8" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
             <element signature="e#1091#1733#0" expanded="false" />
