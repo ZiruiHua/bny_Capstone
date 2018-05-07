@@ -140,16 +140,15 @@ def getModels(request):
         obj = {}
         innerObj = {}
         innerObj['id'] = system.name
-
+        innerObj['color'] = system.color
         innerObj['attributes'] = []
-        innerObj['data'] = innerObj
-        
+
         attributes_list = system.attributes.values_list("name", flat=True).distinct()
         for i in attributes_list:
             innerObj['attributes'].append(i)
 
-        obj['color'] = system.color
 
+        obj['data'] = innerObj
         obj['type'] = "node"
         systems.append(obj)
 
